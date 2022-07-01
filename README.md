@@ -1,1 +1,1 @@
-# basketball_project
+# Statsketball: A simple NBA stats site (WIP)
