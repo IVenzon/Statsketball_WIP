@@ -4,3 +4,12 @@
 
 ### Note: In order to utilize this project, you will need to intall the following via your terminal:
 
+`pipenv install PyMySQL flask`
+
+`pipenv install flask flask-Bcrypt`
+
+`pipenv install numpy`
+
+`pipenv install requests`
+
+`pipenv install nba_api`
